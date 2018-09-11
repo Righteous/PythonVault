@@ -1,0 +1,429 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"get",
+				"get_cost"
+			],
+			[
+				"cos",
+				"cosmic_cost"
+			],
+			[
+				"item",
+				"item_id"
+			],
+			[
+				"ao_",
+				"ao_price"
+			],
+			[
+				"upo",
+				"upo_cost"
+			],
+			[
+				"ao",
+				"ao_id"
+			],
+			[
+				"cosmi",
+				"cosmic_cost"
+			],
+			[
+				"sell",
+				"sell_price"
+			],
+			[
+				"buy",
+				"buy_price"
+			],
+			[
+				"MET",
+				"METERPRETER_HTTP_HTTPS"
+			],
+			[
+				"if",
+				"ifmain\tif __name__ == '__main__'"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "orbcalc.py",
+			"settings":
+			{
+				"buffer_size": 1493,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "orbcalculations.txt",
+			"settings":
+			{
+				"buffer_size": 386,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/User/Milk + Anyone else.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/Virtualenv/Python + Virtualenv.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Milk + Anyone else.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Python2 + Virtualenv.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/Milk + Anyone else.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Pep",
+				"User: Python PEP8 Autoformat"
+			],
+			[
+				"Snippet: ",
+				"Snippet: #!/usr/bin/env"
+			],
+			[
+				"",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"Laravel",
+				"Laravel Artisan 5: DB:Seed"
+			],
+			[
+				"Laravel ",
+				"Laravel Artisan 5: App:Name"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 350.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/jordan/Projects/OSRSOrbCalc"
+	],
+	"file_history":
+	[
+		"/home/jordan/.config/sublime-text-3/Packages/User/Python2.sublime-build",
+		"/home/jordan/.config/jgmenu/jgmenurc",
+		"/home/jordan/alora.sh",
+		"/home/jordan/Infosec/Code/Tartarus/tartarus.py",
+		"/tmp/CopyQ.rgkOfE.txt",
+		"/home/jordan/git/vcpkg/bootstrap-vcpkg.sh",
+		"/home/jordan/git/vcpkg/toolsrc/include/vcpkg/vcpkgpaths.h",
+		"/home/jordan/gcc-commands.txt",
+		"/home/jordan/.xinitrc",
+		"/home/jordan/.xprofile",
+		"/home/jordan/.bash_profile",
+		"/home/jordan/.bashrc",
+		"/home/jordan/Projects/DotNetOnArch/DotNetOnArch.cs",
+		"/home/jordan/Projects/DotNetOnArch/.vscode/launch.json",
+		"/home/jordan/Documents/launch.json",
+		"/home/jordan/.cache/chromium/Default/Cache/index-dir/the-real-index",
+		"/home/jordan/.cache/.fr-vwdHpL/ClassLibrary-CSharp/Company.ClassLibrary1.csproj",
+		"/home/jordan/.cache/.fr-wZ7zYU/ClassLibrary-CSharp/Class1.cs",
+		"/home/jordan/.cache/.fr-7rAb33/Content/dotnet-new-nunit-csharp/.template.config/dotnetcli.host.json",
+		"/home/jordan/.cache/.fr-7kkcRg/Content/dotnet-new-nunit-csharp/.template.config/template.json",
+		"/home/jordan/Projects/DotNetOnArch/.vscode/settings.json",
+		"/home/jordan/Projects/DotNetOnArch/Projects.csproj",
+		"/home/jordan/Projects/Program.cs",
+		"/home/jordan/.config/sublime-text-3/Packages/User/Laravel 5 Artisan.sublime-commands",
+		"/home/jordan/.config/chromium/Default/Extensions/jpmkfafbacpgapdghgdpembnojdlgkdl/0.8.0_0/manifest.json",
+		"/home/jordan/Projects/Projects.csproj",
+		"/home/jordan/.cache/.fr-55GD16/extension/server/node_modules/vscode-css-languageservice/node_modules/vscode-nls/lib/main.js",
+		"/home/jordan/.config/chromium/Default/Extensions/jpmkfafbacpgapdghgdpembnojdlgkdl/0.8.0_0/options.html",
+		"/home/jordan/.config/chromium/Default/Extensions/jpmkfafbacpgapdghgdpembnojdlgkdl/0.8.0_0/_metadata/verified_contents.json",
+		"/home/jordan/.config/sublime-text-3/Packages/pyte/dependency-metadata.json",
+		"/home/jordan/.config/sublime-text-3/Packages/User/Python2 + Virtualenv.sublime-build",
+		"/home/jordan/.config/sublime-text-3/Packages/User/Milk + Anyone else.sublime-build",
+		"/home/jordan/.config/chromium/Default/Extensions/jpmkfafbacpgapdghgdpembnojdlgkdl/0.8.0_0/js/sanitizer.js",
+		"/home/jordan/Documents/xclip-0.12/configure",
+		"/home/jordan/.cache/mesa_shader_cache/f1/149000f0baf76b833001c818feeb8c6dcd3821",
+		"/home/jordan/.config/chromium/Default/Extensions/jpmkfafbacpgapdghgdpembnojdlgkdl/0.8.0_0/js/popup.js",
+		"/home/jordan/.cache/.fr-g2Lzho/xclip-copyfile.1",
+		"/home/jordan/.config/Code/logs/20180830T124836/output_1_20180830T144117/extension-output-#1.log",
+		"/home/jordan/.config/sublime-text-3/Packages/Terminus/themes/dracula.json",
+		"/home/jordan/.config/sublime-text-3/Packages/wcwidth/dependency-metadata.json",
+		"/usr/share/maligno/maligno_client_stand.template",
+		"/home/jordan/.config/sublime-text-3/Packages/Terminus/dependencies.json",
+		"/home/jordan/.config/chromium/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.7_1/dasherSettingSchema.json",
+		"/usr/share/maligno/server_config.xml",
+		"/home/jordan/.config/Code/logs/20180830T124836/main.log",
+		"/home/jordan/.config/Code/logs/20180830T124836/sharedprocess.log",
+		"/home/jordan/.config/chromium/Local State",
+		"/usr/share/perl5/vendor_perl/Gtk3.pm",
+		"/usr/share/maligno/clientgen.py",
+		"/usr/share/maligno/profiles/standard.xml",
+		"/usr/share/maligno/install.sh",
+		"/opt/metasploit/test/modules/exploits/test/java_tester.rb",
+		"/usr/share/maligno/maligno_client.template",
+		"/usr/share/armitage/armitage",
+		"/home/jordan/Infosec/Tools/sparta-master/scripts/smbenum.sh",
+		"/home/jordan/Infosec/Tools/sparta-master/sparta.py",
+		"/home/jordan/Infosec/Tools/sparta-master/sparta",
+		"/home/jordan/Infosec/Tools/sparta-master/shellcode.base64",
+		"/home/jordan/Infosec/Tools/sparta-master/parsers/Parser.py",
+		"/home/jordan/Infosec/Tools/sparta-master/controller/controller.py",
+		"/home/jordan/Infosec/Tools/sparta-master/meterpreter_http.base64",
+		"/home/jordan/Infosec/Tools/sparta-master/herc_rev_shell.base64",
+		"/home/jordan/Infosec/Tools/sparta-master/meterpreter_tcp.base64",
+		"/home/jordan/Infosec/Tools/sparta-master/ui/sparta.qss",
+		"/home/jordan/Infosec/Tools/sparta-master/scripts/fingertool.sh",
+		"/usr/share/applications/geoclue-demo-agent.desktop",
+		"/usr/share/applications/geoclue-where-am-i.desktop",
+		"/home/jordan/.Xresources",
+		"/snap/discord/current/bin/desktop-launch",
+		"/etc/geoclue/geoclue.conf",
+		"/home/jordan/.config/obmenu-generator/schema.pl",
+		"/home/jordan/.local/share/applications/discord.desktop",
+		"/home/jordan/.config/obmenu-generator/config.pl",
+		"/home/jordan/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/jordan/.config/sublime-text-3/Packages/User/Package Control.sublime-settings",
+		"/home/jordan/.cache/.fr-VGLHZL/main.cpp",
+		"/snap/discord/current/command-discord.wrapper",
+		"/home/jordan/Infosec/malware-downloads/template-ppsx-doc.hex",
+		"/home/jordan/bin/check-network",
+		"/home/jordan/Infosec/git-downloads/netgrafio-v0.1/env/lib/python3.7/site-packages/itsdangerous.py",
+		"/home/jordan/.config/sublime-text-3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/home/jordan/.config/sublime-text-3/Packages/User/Side Bar.sublime-settings"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			".\\\"",
+			".\\\"·",
+			"{\"browser\":{\"last_redirect_origin\":\"\"},\"hardware_acceleration_mode_previous\":true,\"network_time\":{\"network_time_mapping\":{\"local\":1535662019509.247,\"network\":1535662019518.0,\"ticks\":73782509246.0,\"uncertainty\":69581.0}},\"plugins\":{\"metadata\":{\"adobe-flash-player\":{\"displayurl\":true,\"group_name_matcher\":\"*Shockwave Flash*\",\"help_url\":\"https://support.google.com/chrome/?p=plugin_flash\",\"lang\":\"en-US\",\"matching_mime_types\":[\"application/futuresplash\"],\"mime_types\":[\"application/futuresplash\",\"application/x-shockwave-flash\"],\"name\":\"Adobe Flash Player\",\"url\":\"http://get.adobe.com/flashplayer/\",\"versions\":[{\"reference\":\"http://www.adobe.com/support/security/bulletins/apsb12-03.html\",\"status\":\"up_to_date\",\"version\":\"11.1.102\"}]},\"google-chrome-pdf\":{\"group_name_matcher\":\"*Chrome PDF Viewer*\",\"mime_types\":[],\"name\":\"Chrome PDF Viewer\",\"versions\":[{\"comment\":\"Google Chrome PDF has no version information.\",\"status\":\"up_to_date\",\"version\":\"0\"}]},\"google-talk\":{\"group_name_matcher\":\"*Google Talk*\",\"mime_types\":[],\"name\":\"Google Talk\",\"versions\":[{\"comment\":\"'Google Talk Plugin' and 'Google Talk Plugin Video Accelerator' use two completely different versioning schemes, so we can't define a minimum version.\",\"status\":\"up_to_date\",\"version\":\"0\"}]},\"java-runtime-environment\":{\"displayurl\":true,\"group_name_matcher\":\"Java*\",\"help_url\":\"https://support.google.com/chrome/?p=plugin_java\",\"lang\":\"en-US\",\"mime_types\":[\"application/x-java-applet\",\"application/x-java-applet,version=1.1\",\"application/x-java-applet,version=1.1.1\",\"application/x-java-applet,version=1.1.2\",\"application/x-java-applet,version=1.1.3\",\"application/x-java-applet,version=1.2\",\"application/x-java-applet,version=1.2.1\",\"application/x-java-applet,version=1.2.2\",\"application/x-java-applet,version=1.3\",\"application/x-java-applet,version=1.3.1\",\"application/x-java-applet,version=1.4\",\"application/x-java-applet,version=1.4.1\",\"application/x-java-applet,version=1.4.2\",\"application/x-java-applet,version=1.5\",\"application/x-java-applet,version=1.6\",\"application/x-java-applet,version=1.7\",\"application/x-java-bean\",\"application/x-java-bean,version=1.1\",\"application/x-java-bean,version=1.1.1\",\"application/x-java-bean,version=1.1.2\",\"application/x-java-bean,version=1.1.3\",\"application/x-java-bean,version=1.2\",\"application/x-java-bean,version=1.2.1\",\"application/x-java-bean,version=1.2.2\",\"application/x-java-bean,version=1.3\",\"application/x-java-bean,version=1.3.1\",\"application/x-java-bean,version=1.4\",\"application/x-java-bean,version=1.4.1\",\"application/x-java-bean,version=1.4.2\",\"application/x-java-bean,version=1.5\",\"application/x-java-bean,version=1.6\",\"application/x-java-bean,version=1.7\",\"application/x-java-vm\"],\"name\":\"Java(TM)\",\"url\":\"http://java.com/download\",\"versions\":[{\"status\":\"requires_authorization\",\"version\":\"1.6.0.39\"},{\"status\":\"out_of_date\",\"version\":\"1.7\"},{\"status\":\"requires_authorization\",\"version\":\"1.7.0.13\"}]},\"lightspark\":{\"displayurl\":true,\"group_name_matcher\":\"*Shockwave Flash*\",\"lang\":\"en-US\",\"matching_mime_types\":[\"application/x-lightspark\"],\"mime_types\":[\"application/x-lightspark\"],\"name\":\"Lightspark\",\"url\":\"https://launchpad.net/lightspark\",\"versions\":[{\"status\":\"requires_authorization\",\"version\":\"0\"}]}},\"resource_cache_update\":\"1535589613.370008\"},\"policy\":{\"last_statistics_update\":\"13180063153368560\"},\"profile\":{\"info_cache\":{\"Default\":{\"active_time\":1535659761.589928,\"avatar_icon\":\"chrome://theme/IDR_PROFILE_AVATAR_26\",\"background_apps\":false,\"gaia_given_name\":\"Jordan\",\"gaia_id\":\"110084489983868886568\",\"gaia_name\":\"Jordan Makris\",\"gaia_picture_file_name\":\"Google Profile Picture.png\",\"is_ephemeral\":false,\"is_omitted_from_profile_list\":false,\"is_using_default_avatar\":false,\"is_using_default_name\":false,\"managed_user_id\":\"\",\"name\":\"Jordan\",\"use_gaia_picture\":true,\"user_name\":\"jnotrighteous@gmail.com\"}},\"last_active_profiles\":[\"Default\"]},\"rappor\":{\"cohort_seed\":51,\"secret\":\"GqIeZLrMv/Wwxf5Q0uZ3rF05fAb1cWy8aMGl/64IhuBT6n7h8T+MfF0HXFKr1iAI\"},\"shutdown\":{\"num_processes\":0,\"num_processes_slow\":0,\"type\":0},\"startup_metric\":{\"last_startup_timestamp\":\"13180066704860000\",\"last_startup_version\":\"68.0.3440.106\",\"same_version_startup_count\":2},\"subresource_filter\":{\"ruleset_version\":{\"content\":\"7.54\",\"format\":20}},\"supervised_users\":{\"whitelists\":{}},\"tab_stats\":{\"last_daily_sample\":\"13180063154320197\",\"max_tabs_per_window\":12,\"total_tab_count_max\":12,\"window_count_max\":4},\"ukm\":{\"client_id\":\"-2407845207373576690\",\"session_id\":1},\"uninstall_metrics\":{\"installation_date2\":\"1535589553\",\"launch_count\":\"2\",\"page_load_count\":\"1471\"},\"updateclientdata\":{\"apps\":{\"aemomkdncapdnfajjbbcbdebjljbpmpj\":{\"cohort\":\"\",\"cohortname\":\"\",\"dlrc\":4259,\"pf\":\"11a540b3-82ad-41d8-bf14-5eac017a08d5\"},\"gcmjkmgdlgnkkcocmoeiminaijmmjnii\":{\"cohort\":\"1:bm1:\",\"cohortname\":\"M54ToM69\",\"dlrc\":4259,\"pf\":\"21dd521e-eea3-4e5c-84c7-449c7bbc97dc\"},\"giekcmmlnklenlaomppkphknjmnnpneh\":{\"cohort\":\"1:j5l:\",\"cohortname\":\"Auto\",\"dlrc\":4259,\"pf\":\"5128d694-6b4a-4fd7-933e-52b92160f012\"},\"hfnkpimlhhgieaddgfemjhofmfblmnib\":{\"cohort\":\"1:jcl:\",\"cohortname\":\"Auto\",\"dlrc\":4259,\"pf\":\"0aa2ba0f-b330-47af-a807-8db169179659\"},\"khaoiebndkojlmppeemjhbpbandiljpe\":{\"cohort\":\"1:cux:\",\"cohortname\":\"Auto\",\"dlrc\":4259,\"pf\":\"e08eca14-bdcd-4c38-8441-888b954bb1be\"},\"llkgjffcdpffmhiakmfcdcblohccpfmo\":{\"dlrc\":4259,\"pf\":\"6d953bad-e7aa-4e17-a0b6-22cac16203cd\"},\"ojjgnpkioondelmggbekfhllhdaimnho\":{\"cohort\":\"1:0:\",\"cohortname\":\"Auto\",\"dlrc\":4259,\"pf\":\"6c22bd08-cc52-40f1-8745-670eb9de343e\"}}},\"user_experience_metrics\":{\"low_entropy_source2\":6842,\"session_id\":1,\"stability\":{\"breakpad_registration_fail\":2,\"breakpad_registration_ok\":0,\"browser_last_live_timestamp\":\"13180066706282100\",\"child_process_crash_count\":0,\"crash_count\":0,\"debugger_not_present\":2,\"debugger_present\":0,\"deferred_count\":0,\"discard_count\":1,\"execution_phase\":500,\"exited_cleanly\":false,\"extension_renderer_crash_count\":0,\"extension_renderer_failed_launch_count\":0,\"extension_renderer_launch_count\":439,\"incomplete_session_end_count\":0,\"launch_count\":2,\"page_load_count\":1471,\"plugin_stats2\":[],\"renderer_crash_count\":0,\"renderer_failed_launch_count\":0,\"renderer_hang_count\":0,\"renderer_launch_count\":227,\"session_end_completed\":true,\"stats_buildtime\":\"1533704400\",\"stats_version\":\"68.0.3440.106-64\",\"version_mismatch_count\":0}},\"was\":{\"restarted\":false}}"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "orbcalc.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1493,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								251,
+								251
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "orbcalculations.txt",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 386,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								194,
+								194
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.Terminus":
+	{
+		"height": 237.0
+	},
+	"output.exec":
+	{
+		"height": 121.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/Python2.sublime-build",
+	"project": "orbcalc.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 264.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

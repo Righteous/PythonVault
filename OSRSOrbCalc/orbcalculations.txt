@@ -1,0 +1,20 @@
+Fetching item info: https://rsbuddy.com/exchange/?id=567
+567 has a buy price of 
+87
+ and a sell price of 
+84
+
+Fetching item info: https://rsbuddy.com/exchange/?id=564
+564 has a buy price of 
+142
+ and a sell price of 
+138
+
+Fetching item info: https://rsbuddy.com/exchange/?id=573
+573 has a buy price of 
+1285
+ and a sell price of 
+1265
+
+Total cost per orb: 513
+Total profit per orb: 772
