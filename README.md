@@ -10,3 +10,6 @@ Calculate air orb profit live from rsbuddy exchange. Utilizes cfscrape to ensure
 
 #### OSRSHideCalc
 Calculate profit on each color of dragonhide.
+
+#### EncryptionSampler
+Runs through each algorithm in hashlib python 3, and outputs the specificed text hashed/encrypted.
